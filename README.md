@@ -1,2 +1,4 @@
-# colab_repo
-Repo for all Google Colab notebooks and data set
+# Colab Repo
+Repo for my all Google Colab notebooks, notes of books and various learning resourses.
+
+**Please give a star ⭐ if it helped you and fork it.👍**
