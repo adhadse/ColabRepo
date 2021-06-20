@@ -5,6 +5,8 @@
 
 This repo holds the jupyter notebooks and datasets containing notes/comments on things I learned from this book. Feel free to use and learned from them.
 
+The author's jupyter notebooks goes much more deep. You can check them [here](https://github.com/ageron/handson-ml2)
+
 ![image](https://user-images.githubusercontent.com/56764399/115943963-a0a12400-a4d0-11eb-8698-366320dafe7f.png)
 
 **Note**: Images from O'Reilly Website
