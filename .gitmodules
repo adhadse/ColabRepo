@@ -1,3 +1,6 @@
 [submodule "Hands-On-Machine-Learning-Book-Notes-and-Practice"]
 	path = Hands-On-Machine-Learning-Book-Notes-and-Practice
 	url = git@github.com:adhadse/Hands-On-Machine-Learning-Book-Notes-and-Practice.git
+[submodule "Deepdub"]
+	path = "Deepdub"
+	url = git@github.com:adhadse/Deepdub.git
