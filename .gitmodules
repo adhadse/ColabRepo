@@ -4,3 +4,6 @@
 [submodule "Deepdub"]
 	path = "Deepdub"
 	url = git@github.com:adhadse/Deepdub.git
+[submodule "implemented_papers/YourTTS"]
+	path = implemented_papers/YourTTS
+	url = git@github.com:adhadse/YourTTS.git
